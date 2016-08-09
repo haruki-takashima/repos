@@ -36,7 +36,7 @@ public class Sosuu {
 		if (isSosu == true) {
 			System.out.println("You are SoSu!!");
 		} else {
-			System.out.println("お前は素数ではないな！");
+			System.out.println("素数ではありません。");
 		}
 
 		System.out.println(System.currentTimeMillis() - start);
