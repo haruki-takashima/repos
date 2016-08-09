@@ -19,7 +19,7 @@ public class Sosuu {
 		if (num <= 1) {
 			isSosu = false;
 		} else if (num == 2) {
-
+			// num が 2 の場合は素数ではありえないので何もしない。
 		} else if (num % 2 == 0) {
 			isSosu = false;
 		} else {
